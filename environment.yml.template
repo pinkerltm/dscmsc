@@ -1,0 +1,12 @@
+name: dscmsc
+channels:
+  - defaults
+dependencies:
+  - conda=4.6.14=py37_0
+  - conda-env=2.6.0=1
+  - pip=18.1=py37_0
+  - python=3.7.1=h0371630_7
+  - requests=2.21.0=py37_0
+  - zlib=1.2.11=h7b6447c_3
+prefix: /usr/local/miniconda3
+
